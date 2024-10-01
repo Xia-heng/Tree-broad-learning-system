@@ -3,19 +3,15 @@
 ===
 ▶_Basic information introduction_
 ---
-This is a MATLAB code for a TBLS approach.   
-
-`#RRGGBB`Note: if anyone using this code, please cited the follow information:
+This is a MATLAB code for a TBLS approach.     
+Note: if anyone using this code, please cited the follow information: `#0969DA`
 H. Xia, J. Tang, W. Yu and J. Qiao, "Tree Broad Learning System for Small Data Modeling," IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 7, pp. 8909-8923, July 2024, doi: 10.1109/TNNLS.2022.3216788. 
 
 ▶Description for code
 ---
-● **Environment clear** (Users do not need to make any modifications)
-
-● **Import data** (Users need to make modifications according to special task)
-
-● **Data split and preprocess**
-
+● **Environment clear** (Users do not need to make any modifications)  
+● **Import data** (Users need to make modifications according to special task)  
+● **Data split and preprocess**  
   ⇲ParaData.spliNumb = 2; %  2: training and testing; 3: training, validation and testing   
   ⇲ParaData.splisequ = 3; % this can be revised by user  
   ⇲ParaData.StanOrNorm = 1; % Standard = 1; Normal = 0
