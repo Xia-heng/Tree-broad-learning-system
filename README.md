@@ -5,7 +5,7 @@
 ---
 This is a MATLAB code for a TBLS approach.   
 
-Note: if anyone using this code, please cited the follow information:
+`#RRGGBB`Note: if anyone using this code, please cited the follow information:
 H. Xia, J. Tang, W. Yu and J. Qiao, "Tree Broad Learning System for Small Data Modeling," IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 7, pp. 8909-8923, July 2024, doi: 10.1109/TNNLS.2022.3216788. 
 
 ▶Description for code
