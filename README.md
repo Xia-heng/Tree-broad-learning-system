@@ -1,5 +1,5 @@
 #《Tree Broad Learning System for Small Data Modeling》
-                                              ---Author by _heng xia_  
+                                              ---Author by _heng xia_< br >
 ##▶Basic information introduction  
 This is a MATLAB code for a TBLS approach.  
 Note: if anyone using this code, please cited the follow information:
